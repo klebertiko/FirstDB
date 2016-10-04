@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "611378282270",
+    "firebase_url": "https://firstdb-42df1.firebaseio.com",
+    "project_id": "firstdb-42df1",
+    "storage_bucket": "firstdb-42df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611378282270:android:f773bb4b9adc0a7d",
+        "android_client_info": {
+          "package_name": "com.android.kleber.firstdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611378282270-49n9bhel441bt9sfvhsd850cne3qe6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbb10_XOmcJSqiGo-hh79KsGHpM_PYTk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

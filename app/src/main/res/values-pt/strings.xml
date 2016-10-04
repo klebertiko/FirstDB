@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Post It!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="email_label">Email</string>
+    <string name="heading_my_posts">Meus Posts</string>
+    <string name="heading_my_top_posts">Meus Posts Topo</string>
+    <string name="heading_recent">Recentes</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">senha</string>
+    <string name="login_label">Entrar</string>
+    <string name="menu_login">Entrar</string>
+    <string name="menu_logout">Sair</string>
+    <string name="password_label">Senha</string>
+    <string name="send_text">Enviar</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Cadastrar</string>
+    <string name="title_sign_in">Bem vindo</string>
+</resources>
